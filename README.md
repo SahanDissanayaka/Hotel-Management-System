@@ -2,7 +2,12 @@
 
 This project is a graphical user interface (GUI) for a hotel management system. The interface is built mainly using the Tkinter library and the Pillow library.Tkinter library used for make the user interface and Pillow library used to add images to it.The backend database is managed with SQLite.
 
+![Alt text](images/Beginning)
+
+
 There are two main sections in this system
+- Customer Section
+- Admin Section
 
 ## Customer Section
 
